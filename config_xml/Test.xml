@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<provinces>
+	<pro Id="1" Arr ="1,2,3,4" Str ="aaa" />
+	<pro Id="2" Arr ="1,2,3,5" Str ="bbb" />
+	<pro Id="3" Arr ="1,2,3,6" Str ="ccc" />
+	<pro Id="4" Arr ="1,2,3,7" Str ="ddd" />
+	<pro Id="5" Arr ="1,2,3,8" Str ="eee" />
+	</provinces>
